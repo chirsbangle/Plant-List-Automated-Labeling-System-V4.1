@@ -11,6 +11,7 @@ Plant-List-Automated-Labeling-System-V4.1 is a Word VBA tool designed for the au
 The system is built to improve consistency, reduce repetitive manual work, and support scientific writing workflows in Word documents. It can recognize existing annotations, avoid duplicate labeling, skip highlighted content, detect incorrect bracketed Latin names, and append correct forms according to the glossary.
 
 ===========================================================================
+
 Main Features
 
 Automatic annotation of Chinese plant names using an Excel glossary
@@ -104,8 +105,10 @@ The first row should be the header row. Actual data should begin from row 2.
 
 Example
 A	B	C	D	E	F
+
 车前科	Plantaginaceae	车前属	Plantago	车前	Plantago asiatica
 谷精草科	Eriocaulaceae	谷精草属	Eriocaulon	谷精草	Eriocaulon buergerianum
+
 Installation
 Step 1. Open Microsoft Word
 
@@ -563,8 +566,10 @@ F 列：种拉丁名
 
 示例表格
 A	B	C	D	E	F
+
 车前科	Plantaginaceae	车前属	Plantago	车前	Plantago asiatica
 谷精草科	Eriocaulaceae	谷精草属	Eriocaulon	谷精草	Eriocaulon buergerianum
+
 安装方法
 第一步：打开 Word
 
