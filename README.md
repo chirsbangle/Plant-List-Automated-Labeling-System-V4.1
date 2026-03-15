@@ -17,7 +17,7 @@ The system is built to improve consistency, reduce repetitive manual work, and s
 ```text
 ===========================================================================
 系统名称：植物名录自动化标注系统 (Turbo Pro V4.1)
-版权所有：(C) 2024-2025 [Chris Bangle]
+版权所有：(C) 2024-2026 [Chirs Bangle]
 软件性质：专业学术辅助工具 (Scientific Research Utility)
 ===========================================================================
 【本次更新日志 - 定制修改】
